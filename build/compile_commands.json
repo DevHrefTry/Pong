@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/devhreftry/Documents/c++/SDL_example/build",
+  "command": "/bin/g++-10   -g -o CMakeFiles/Game.dir/src/main.cpp.o -c /home/devhreftry/Documents/c++/SDL_example/src/main.cpp",
+  "file": "/home/devhreftry/Documents/c++/SDL_example/src/main.cpp"
+}
+]

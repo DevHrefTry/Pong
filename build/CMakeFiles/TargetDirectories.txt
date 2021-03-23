@@ -1,0 +1,5 @@
+/home/devhreftry/Documents/c++/SDL_example/build/CMakeFiles/edit_cache.dir
+/home/devhreftry/Documents/c++/SDL_example/build/CMakeFiles/package_source.dir
+/home/devhreftry/Documents/c++/SDL_example/build/CMakeFiles/rebuild_cache.dir
+/home/devhreftry/Documents/c++/SDL_example/build/CMakeFiles/package.dir
+/home/devhreftry/Documents/c++/SDL_example/build/CMakeFiles/Game.dir

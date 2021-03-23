@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/devhreftry/Documents/c++/SDL_example/src/Ball.cpp
+SDL2/SDL.h
+-
+
+/home/devhreftry/Documents/c++/SDL_example/src/Contact.cpp
+
+/home/devhreftry/Documents/c++/SDL_example/src/Paddle.cpp
+
+/home/devhreftry/Documents/c++/SDL_example/src/Vec2.cpp
+
+/home/devhreftry/Documents/c++/SDL_example/src/main.cpp
+chrono
+-
+iostream
+-
+SDL2/SDL.h
+-
+SDL2/SDL_ttf.h
+-
+Vec2.cpp
+/home/devhreftry/Documents/c++/SDL_example/src/Vec2.cpp
+Ball.cpp
+/home/devhreftry/Documents/c++/SDL_example/src/Ball.cpp
+Paddle.cpp
+/home/devhreftry/Documents/c++/SDL_example/src/Paddle.cpp
+Contact.cpp
+/home/devhreftry/Documents/c++/SDL_example/src/Contact.cpp
+

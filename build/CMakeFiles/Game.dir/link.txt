@@ -1,0 +1,1 @@
+/bin/g++-10 -g -rdynamic CMakeFiles/Game.dir/src/main.cpp.o -o Game  -lSDL2main -lSDL2 -lGL -lSDL2_ttf 
